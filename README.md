@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:1abbasia@gmail.com)
 [![GitHub](https://img.shields.io/badge/1abbasia%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/1abbasia)](https://github.com/1abbasia)
 
-- 👨‍💻 Web Developer
+- 👨‍💻 Web and iOS Developer
 - 📍 Currently located in NYC
 
 ## 🔧 Technologies & Tools:
@@ -20,6 +20,7 @@
 ![Material-UI](https://img.shields.io/badge/Material--UI%20-%23239DFF.svg?&style=flat-square&logo=material-ui&logoColor=fff)
 ![Axios](https://img.shields.io/badge/-Axios-blueviolet)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff)
+
 
 ### **Back End:**
 
